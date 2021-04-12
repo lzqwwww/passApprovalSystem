@@ -1,0 +1,13 @@
+{
+  "name": "passApprovalSystem",
+  "version": "0.1.0",
+  "description": "passApprovalSystem apiDoc",
+  "title": "passApprovalSystem apiDoc",
+  "url" : "https://localhost:8000/",
+  "sampleUrl": "http://localhost:8000/",
+  "forceLanguage":"zh-cn",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
